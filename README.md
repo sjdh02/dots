@@ -2,9 +2,7 @@
 my dotfiles.
 
 # editor
-I use `neovim`, with [`vim-plug`](https://github.com/junegunn/vim-plug) for plugin management. 
-once you have both of these installed, just open neovim and run `:PlugUpdate` to get all the plugins 
-installed.
+I use emacs with a few different plugins. I used to use nvim. see the `emacs/init.el` file for more information.
 
 # shell
 I use `fish` for my terminal shell; along with [`fisher`](https://github.com/jorgebucaran/fisher) to manage packages for it. once you've installed both of these, use fisher to install the gruvbox theme like so: `fisher add jomik/fish-gruvbox`.
